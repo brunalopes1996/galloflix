@@ -13,3 +13,6 @@ ng g c pages/home
 
 Criar um servico
 ng g s services/movieApi
+
+
+https://github.com/3-DS-2025-A   - github Gallo

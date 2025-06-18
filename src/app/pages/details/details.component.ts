@@ -43,7 +43,6 @@ export class DetailsComponent {
       //console.log(result);
       this.cast = result.cast;
     });
-    
   }
 
   getSafeUrl(key: string): SafeResourceUrl {
@@ -51,6 +50,5 @@ export class DetailsComponent {
       'https://www.youtube.com/embed/' + key
     );
   }
-
 
 }
